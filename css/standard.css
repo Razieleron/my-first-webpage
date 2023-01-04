@@ -1,0 +1,24 @@
+h1 {
+  color: rgb(155, 52, 186);
+  text-align: right;
+}
+
+h2 {
+  font-style: bold;
+  font-weight: 10; 
+  text-align: right;
+}
+
+h3 {
+  text-align: right
+}
+
+p {
+  font-family: papyrus;
+  text-align: right;
+}
+
+ul {
+  font-size: 50px;
+  line-height: 30px;
+}
